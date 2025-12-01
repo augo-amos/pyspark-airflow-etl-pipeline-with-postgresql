@@ -28,7 +28,10 @@ pyspark-airflow-project/
 ├── postgres/
 │   └── init.sql               # Database schema initialization
 └── scripts/
-    └── read_postgres.py       # Utility script to read PostgreSQL data
+│    └── read_postgres.py       # Utility script to read PostgreSQL data
+├── images/
+    └── airflow.png
+    └── postgres_tables.png
 ```
 
 ## Tech Stack
@@ -271,3 +274,4 @@ This project demonstrates patterns for:
 2. Create a feature branch
 3. Make changes and test with `docker compose up -d --build`
 4. Submit a pull request
+
