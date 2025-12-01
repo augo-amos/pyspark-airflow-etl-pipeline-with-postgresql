@@ -1,0 +1,11 @@
+customer_id,age,gender,marital_status,income_level,transaction_date,amount_spent,product_category
+1,35,M,Single,Medium,2023-01-15,150.50,Electronics
+2,42,F,Married,High,2023-01-16,75.25,Clothing
+1,35,M,Single,Medium,2023-02-01,200.00,Electronics
+3,28,F,Single,Low,2023-02-02,50.75,Furniture
+2,42,F,Married,High,2023-02-15,300.00,Clothing
+4,51,M,Married,High,2023-03-01,450.25,Electronics
+3,28,F,Single,Low,2023-03-10,25.50,Furniture
+1,35,M,Single,Medium,2023-03-15,125.00,Electronics
+5,39,F,Divorced,Medium,2023-03-20,80.00,Clothing
+2,42,F,Married,High,2023-04-01,150.00,Electronics
